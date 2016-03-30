@@ -1,0 +1,27 @@
+{
+  "name": "DuckNuck Soundboard",
+  "authors": [
+    "Dylan Myers <dylmye@users.noreply.github.com>"
+  ],
+  "description": "I'M A DIRTY DUCK AND I'M HERE TO LAY SOME DIRTY EYYYGGS",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "duck",
+    "comedybutton",
+    "soundboard",
+    "dylmye"
+  ],
+  "license": "MIT",
+  "homepage": "http://dylmye.me/ducknucksoundboard",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "SoundManager2": "soundmanager2#*"
+  }
+}
